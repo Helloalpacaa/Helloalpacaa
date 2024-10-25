@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huijie Pan</h1>
-<h3 align="center">A senior undergraduate CS student at Georgia Tech</h3>
+<h3 align="center">A first year graduate CS student at Georgia Tech</h3>
 
 - 🔭 I’m currently working on **BiteScript,** **SmartyPants**
 
-- 🌱 I’m currently learning **React,PostgreSQL,AWS**
+- 🌱 I’m currently learning **React, PostgreSQL, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Helloalpacaa](https://github.com/Helloalpacaa)
 
