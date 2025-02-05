@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huijie Pan</h1>
-<h3 align="center">A first year graduate CS student at Georgia Tech</h3>
+<h3 align="center">A graduate CS student at Georgia Tech</h3>
 
 - 🔭 I’m currently working on **BiteScript, SmartyPants**
 
