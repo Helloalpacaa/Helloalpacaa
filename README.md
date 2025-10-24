@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huijie Pan</h1>
 <h3 align="center">A graduate CS student at Georgia Tech</h3>
 
-- 🔭 I’m currently working on **BiteScript, SmartyPants**
+- 🔭 I’m currently working on **SkillSwipe**
 
-- 🌱 I’m currently learning **React, PostgreSQL, AWS**
+- 🌱 I’m currently learning **LLM, Swift, Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Helloalpacaa](https://github.com/Helloalpacaa)
+- 👨‍💻 All of my projects are available at https://portfolio-chi-gold-777kvev6g7.vercel.app/
 
 - 📫 How to reach me **helloalpacaa@gmail.com**
 
